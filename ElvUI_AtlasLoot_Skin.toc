@@ -1,8 +1,8 @@
 ## Interface: 40200
 ## Title: |cff1784d1ElvUI|r AtlasLoot Skin
 ## Notes: Editless AtlasLoot Skin For ElvUI/Tukui
-## Author: Camealion
-## Version: 1.1
+## Author: Caddayron
+## Version: 1.2
 ## Dependencies: AtlasLoot
 ## OptionalDeps: Tukui, ElvUI
 
