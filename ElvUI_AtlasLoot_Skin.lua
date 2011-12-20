@@ -1,6 +1,4 @@
-﻿﻿--Skin inspired by Camealion AtlasLoot Skin
-
-local function AL_OnShow(self, event, ...)
+﻿local function AL_OnShow(self, event, ...)
 
 	-- Move Positions
 	AtlasLootPanel:Point("TOP", AtlasLootDefaultFrame, "BOTTOM", 0, -1)
